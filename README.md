@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src='https://user-images.githubusercontent.com/105531752/168414146-df01cbcb-0f16-478a-80ce-522c48d15d53.svg' height= '40'>
 (https://github.com/nisharg9135)
 
-<img src='![instagram](https://user-images.githubusercontent.com/105531752/168416672-0e98f9f0-6bc7-4e8e-a011-97101eab6aaf.svg)' alt='instagram' height="48">
+<img src='https://user-images.githubusercontent.com/105531752/168416672-0e98f9f0-6bc7-4e8e-a011-97101eab6aaf.svg' alt='instagram' height='48'>
 (https://www.instagram.com/nisharg_49/)
 
 <!-- [<img src-'https://cdn.jsdelivr.net/npm/simple-icons@3.e.1/icons/codepen.svg' alt-'codepen' height="49">]
