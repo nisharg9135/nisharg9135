@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="![github](https://user-images.githubusercontent.com/105531752/168414034-574009a2-ea02-4a03-bcc9-dd1290c1d9d9.svg)' alt='github' height="40>]
+[<img src="https://user-images.githubusercontent.com/105531752/168414034-574009a2-ea02-4a03-bcc9-dd1290c1d9d9.svg' alt='github' height="40>]
 (https://github.com/nisharg0409)
 
