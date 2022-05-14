@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[<img src="https://user-images.githubusercontent.com/105531752/168414034-574009a2-ea02-4a03-bcc9-dd1290c1d9d9.svg' alt='github' height="40>]
+[<img src="https://user-images.githubusercontent.com/105531752/168414034-574009a2-ea02-4a03-bcc9-dd1290c1d9d9.svg" alt="github" height= "40"]
 (https://github.com/nisharg0409)
 
+<!-- [<img src='https://cdn. jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram height="48">]
+(https://ww.instagram.com/automatlog/)
+[<img src-'https://cdn.jsdelivr.net/npm/simple-icons@3.e.1/icons/codepen.svg' alt-'codepen' height="49">]
+(https://codepen.io/automatlog)
+[<img src-'https://cdn.jsdelivr.net/npm/simple-icons@3.e.1/1cons/reddit.svg' alt-'Reddit' height-'40'>1
+(https://www.reddit.com/user/Automatlog) -->
