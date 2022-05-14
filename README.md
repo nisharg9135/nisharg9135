@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### ``` I'am currently learning B.Tech CSE..```
+
 <!--
 **nisharg9135/nisharg9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
