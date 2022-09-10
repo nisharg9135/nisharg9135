@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <hr>
 <h1 align="center">languages i know</h1>
-<div align='center'><img src='https://user-images.githubusercontent.com/105531752/169348633-ad7fbf43-4f6b-4bee-9409-dc209750de7e.png' height="60">  <img src='https://user-images.githubusercontent.com/105531752/169349168-4d34c7e5-41a1-4266-b802-5a1f23bbad74.svg' height="60">  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649' height="60">
+<div align='center'><img src='https://user-images.githubusercontent.com/105531752/169348633-ad7fbf43-4f6b-4bee-9409-dc209750de7e.png' height="60">  <img src='https://user-images.githubusercontent.com/105531752/169349168-4d34c7e5-41a1-4266-b802-5a1f23bbad74.svg' height="60">  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649' height="60"> <img src='https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg' height="60">
+
 </div>
 <br>
 
